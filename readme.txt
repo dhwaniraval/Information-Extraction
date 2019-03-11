@@ -11,7 +11,7 @@ Stage 3: Implementation of NLP techniques to extract NLP features:
          Part-Of-Speech Tagging
          Dependency Parsing
          Word Relations : Hypernyms, Hyponyms, Holonyms, Meronyms
-Stage 4: Implementation of  a machine-learning, statistical, or heuristic based approach to 	     extract filled information templates from the corpus
+Stage 4: Implementation of  a machine-learning, statistical, or heuristic based approach to extract filled information templates from the corpus
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Proposed Solution
